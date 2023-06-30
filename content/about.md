@@ -1,3 +1,9 @@
++++
+date = 2021-09-13
+tags = ["personal"]
+title = "About"
++++
+
 # About
 
 My name is Søren K.S. Gregersen. I am an engineer schooled in physics and nanotechnology. I tried pursuing an academic career in nano electronics and later computer vision (see my old work at [Google scholar](https://scholar.google.dk/citations?hl=da&pli=1&user=MUqqiF8AAAAJ)). Now, however, I am employed as a imaging systems engineer in the medical industry. I consider myself a more-than-a-hobbyist programmer with many unfinished projects (see my random code at [Github](https://github.com/sksg)).
